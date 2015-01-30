@@ -3,7 +3,7 @@ Columbia University Project on Heat Engines
 
 The goal of this project was:
 
-1. To visualize the work (energy) output of a Heat Engine cyle according to different compression ratio (R)
+1. To visualize the work (energy) output of a Gas Turbine cyle according to different compression ratio (R)
 
 2. To visualize the Thermal Efficiency of the cycle for different value of R
 
